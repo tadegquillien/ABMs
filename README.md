@@ -1,7 +1,11 @@
 # How to run the computer models
 
 It can be fun to play around with the models of evolution introduced in class. These models are written in a programming language called Python, but you don’t need to know any programming in order to run them.
-To play around with these models, you will need to use a software called Anaconda. You can easily download Anaconda for free at https://www.anaconda.com/products/individual. Anaconda installs several applications on your computer, but to read the models you just need to launch the one called “Jupyter Notebooks”. After launching Jupyter, you should see a page like the following one appear on your web browser:
+To play around with these models, you have two options.
+
+**1: run them online** via this link: https://mybinder.org/v2/gh/tadegquillien/ABMs/88a3263ea940ad5aadca8922d0beabf06730d13d
+
+**2: download the files and run them on your computer.** To do this, you will need to use a software called Anaconda. You can easily download Anaconda for free at https://www.anaconda.com/products/individual. Anaconda installs several applications on your computer, but to read the models you just need to launch the one called “Jupyter Notebooks”. After launching Jupyter, you should see a page like the following one appear on your web browser:
 
 ![image](https://github.com/tadegquillien/pictures/blob/master/jp1.png)
 
